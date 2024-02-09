@@ -1,4 +1,4 @@
-# lab3-practice
+// # lab3-practice
 
 #include <iostream> 
 int main() {
@@ -14,7 +14,7 @@ ans2 = 0;
 ans3 =0 ;
 ans4 = 0;
 
-std::cout << "The Sorting Hat Quiz!" ;
+std::cout << "The Sorting Hat Quiz!\n" ;
 // -------Question 1--------
 std::cout << "Q1) When I'm dead, I want peolpe to remember me as: \n";
 std::cout << "1) The Good\n";
